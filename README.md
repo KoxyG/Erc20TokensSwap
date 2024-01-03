@@ -1,4 +1,4 @@
-## Erc20 Tokens Swap Contract
+## Erc20 Token Swap Contract
 
 This project contains a smart contract for swapping two ERC-20 tokens. The contract includes two ERC-20 token implementations, Bol token, and Sol token.
 
